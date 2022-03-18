@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>295342043131-r6bbu194f0cretg78g8tjb6kdl70vg6v.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.295342043131-r6bbu194f0cretg78g8tjb6kdl70vg6v</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBAI90CWiGV5eTwTEovzn3qqb-JCo0BE8M</string>
+	<key>GCM_SENDER_ID</key>
+	<string>295342043131</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>kr.com.realestate</string>
+	<key>PROJECT_ID</key>
+	<string>real-estate-3ba17</string>
+	<key>STORAGE_BUCKET</key>
+	<string>real-estate-3ba17.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:295342043131:ios:cc745a0edd328b1858655e</string>
+</dict>
+</plist>
